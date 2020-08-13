@@ -11,4 +11,4 @@ The criteria for the house price data is as follows:
     max final price 4,000,000kr
     Last 12 months
 
-The data was scraped from hemnet.se and resulted in 2181 datapoints from June 2019, June 2020. The data can be easily updated, and parameters changed to provide a larger dataset with minimal change to the code.
+The data was scraped from hemnet.se and resulted in 2181 datapoints from June 2019, June 2020. The data can be easily updated, and parameters changed to provide a broader dataset with minimal change to the code.
