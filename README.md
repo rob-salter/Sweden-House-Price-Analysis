@@ -1,4 +1,4 @@
-# Swedish-House-Price-Data
+# Västra Götaland (Sweden) House Price Data Analysis
 
 The project was started to scrape, clean and analyze house price data for the region of Västra Götaland in Sweden for a specific criteria. The inspiration for this project was to get a greater understanding of the housing market and understand basic metrics such as mean and median price differences, mean sale prices in target locations, temporal and spacial trends.
 
