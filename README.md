@@ -26,4 +26,4 @@ Techniques
 - Matplotlib
 - Python / Jupyter notebook
 - Seaborn
-- Webscraping
+- Web scraping
