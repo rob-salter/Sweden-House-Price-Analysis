@@ -17,7 +17,7 @@ The criteria for the house price data is as follows:
  - max final price 4,000,000kr
  - Last 12 months
 
-The result of our webscraping algorithm was 2181 datapoints from June 2019, June 2020. 
+The result of our webscraping algorithm was 2181 datapoints from June 2019, June 2020. Our analysis mainly focuses on a specific area in Västra Götaland as this is the area most interesting to us. There are many more possibilities for this dataset which may be returned to at a later date. 
 
 Techniques
 
