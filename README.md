@@ -26,4 +26,4 @@ Techniques
 - Matplotlib
 - Python / Jupyter notebook
 - Seaborn
-- Web scraping
+- Web scraping - Beautiful Soup
