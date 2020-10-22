@@ -27,3 +27,5 @@ Techniques
 - Python / Jupyter notebook
 - Seaborn
 - Web scraping - Beautiful Soup
+
+Projects can be viewed using nbviewer (https://nbviewer.jupyter.org/) if Github's ipynb glitch continues.
