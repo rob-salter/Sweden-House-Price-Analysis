@@ -1,6 +1,6 @@
 # Exploratory Analysis of The Housing Market In Västra Götaland (Sweden)
 
-As a potential first time buyer, you view a house that you like, is within your budget and in the right location. You decide that YES, this is the house for you, only to see the bidding start and immediately soar... The closing price finishes 35% over starting price at which point you realise that you know next to nothing about this market!
+As a potential first time buyer, you view a house that you like, it's within your budget and in the right location. You decide that YES, this is the house for you, only to see the bidding start and immediately soar... The closing price finishes 35% over starting price at which point you realise that you know next to nothing about this market!
 
 This was the motivation for this project. The aim is to gain a better understanding of the local housing market and answer questions such as, what is the average expected price increase, which areas are most popular for our target house and is the variances within a kommun which would make certain areas more desirable.
 
